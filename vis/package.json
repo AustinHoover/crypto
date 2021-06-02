@@ -1,0 +1,32 @@
+{
+  "name": "vis",
+  "version": "1.0.0",
+  "description": "Visualization for data",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel ./src/entry/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "react-router-dom",
+    "d3"
+  ],
+  "author": "Austin Hoover",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@types/d3": "^6.3.0",
+    "@types/react": "^17.0.1",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-router-dom": "^5.1.7",
+    "bootstrap": "^4.6.0",
+    "d3": "^6.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "typescript": "^4.1.3"
+  }
+}
